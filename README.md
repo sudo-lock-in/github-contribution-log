@@ -1,8 +1,8 @@
-# Contribution [#]: [Issue Title]
+# Contribution 1: Investigate and eliminate allow statements #23659
 
 **Contribution Number:** 1   
-**Student:** AJ Thompson
-**Issue:** https://github.com/vectordotdev/vector/issues/23659 
+**Student:** AJ Thompson <br>
+**Issue:** https://github.com/vectordotdev/vector/issues/23659 <br>
 **Status:** Phase I In Progress
 
 ---
