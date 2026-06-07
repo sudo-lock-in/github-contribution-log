@@ -9,7 +9,7 @@
 
 ## Why I Chose This Issue
 
-I am interested in learning to program with Rust and doing open source contirbutions. I believe my skills in other programming languages will transfer over well to this issue. It is labeled "good first issue". It would require running tests and making sure the removal of each ``allow`` statement will rid the module of potential/hidden bugs. I have also experience in running tests with JUnit, Mockito, and PyTest. The issue can be solved in multiple independent pull requests as well.
+I am interested in learning to program with Rust and doing open source contirbutions. I believe my skills in other programming languages will transfer over well to this issue. It is labeled "good first issue". It would require running tests and making sure the removal of each ``allow`` statement will rid the module of potential/hidden bugs. I have applicable experience in running tests with JUnit, Mockito, and PyTest. The issue can be solved in multiple independent pull requests as well.
 
 ---
 
