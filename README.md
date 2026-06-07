@@ -3,7 +3,7 @@
 **Contribution Number:** 1   
 **Student:** AJ Thompson <br>
 **Issue:** https://github.com/vectordotdev/vector/issues/23659 <br>
-**Status:** Phase I In Progress
+**Status:** Phase I Complete
 
 ---
 
