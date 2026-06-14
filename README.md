@@ -3,7 +3,7 @@
 **Contribution Number:** 1   
 **Student:** AJ Thompson <br>
 **Issue:** https://github.com/vectordotdev/vector/issues/23659 <br>
-**Status:** Phase I Complete
+**Status:** Phase II In Progess
 
 ---
 
@@ -38,6 +38,8 @@ I am interested in learning to program with Rust and doing open source contirbut
 ### Environment Setup
 
 [Notes on setting up your local development environment - challenges you faced, how you solved them]
+
+I faced an error with my fork. When I synced it up-to-date, in the actions tab I recieved a Static Analysis error. The error was associated with the commit `docs: fix Integration/E2E badge link in README (#25618)`. This was specifically with Datadog Static Analyzer in the static_analysis.yml file and DataDog's API key missing credentials. I re-ran the job which solved the issue.
 
 ### Steps to Reproduce
 
